@@ -21,9 +21,9 @@ Desenvolvido com o *framework* **Laravel**, o projeto foi estruturado como uma *
 
 ---
 
-### 2. Melhoria na Seção de Funcionalidades
+<!-- ### 2. Melhoria na Seção de Funcionalidades
 
-Use ícones Markdown (como `:check:` ou emojis) para tornar a lista mais dinâmica e detalhe a arquitetura.
+Use ícones Markdown (como `:check:` ou emojis) para tornar a lista mais dinâmica e detalhe a arquitetura. -->
 
 ## ✨ Funcionalidades e Arquitetura
 
@@ -38,9 +38,9 @@ Use ícones Markdown (como `:check:` ou emojis) para tornar a lista mais dinâmi
 
 ---
 
-### 3. Melhoria na Seção Técnica e Diagrama (Opcional)
+<!-- ### 3. Melhoria na Seção Técnica e Diagrama (Opcional)
 
-Se você puder criar um **diagrama de arquitetura** simples (pode ser feito com ferramentas como Excalidraw ou Mermaid), adicione a imagem e a seção a seguir.
+Se você puder criar um **diagrama de arquitetura** simples (pode ser feito com ferramentas como Excalidraw ou Mermaid), adicione a imagem e a seção a seguir. -->
 
 ## 🛠️ Stack Tecnológico
 
@@ -52,8 +52,8 @@ Se você puder criar um **diagrama de arquitetura** simples (pode ser feito com 
 | **Autenticação** | **JWT** | (Biblioteca) | Utilizado para *stateless* authentication. |
 | **Gerenciador** | **Composer** | 2.8.8 | Gerenciamento de dependências. |
 
-### 📊 Diagrama de Arquitetura (Opcional)
-
-Se houver um frontend (como Vue/React), esta imagem ilustra a comunicação entre as partes.
+### 📊 Diagrama de Arquitetura (Em Desenvolvimento)
+<!-- 
+Se houver um frontend (como Vue/React), esta imagem ilustra a comunicação entre as partes. -->
 
 ```markdown
